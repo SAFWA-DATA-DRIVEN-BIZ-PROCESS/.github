@@ -12,5 +12,5 @@ Schinkels focused on delivering intelligent data - Data that serves the profitab
 WHat we do best is combining emerging technologies (like Cloud Computing, Software-as-a-Service, Social Networks, Mobility, Semantic Web, Linked Open Data, and Big Data Management) in order to help organizations to meet their business strategy goals and benefit from the power of technology innovation.  WE deliver mission-critical solutions to support your business decison.
 
 
-Bani Dom
-CTO
+# Bani Dom
+# CTO
