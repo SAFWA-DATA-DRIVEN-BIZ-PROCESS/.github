@@ -9,9 +9,14 @@ Schinkels focused on delivering intelligent data - Data that serves the profitab
 
 # Technology Provision and IT Consulting
 
-WHat we do best is combining emerging technologies (like Cloud Computing, Software-as-a-Service, Social Networks, Mobility, Semantic Web, Linked Open Data, and Big Data Management) in order to help organizations to meet their business strategy goals and benefit from the power of technology innovation.  WE deliver mission-critical solutions to support your business decison.
+What we do best is combining emerging technologies (like Cloud Computing, Software-as-a-Service, Social Networks, Mobility, Semantic Web, Linked Open Data, and Big Data Management) in order to help organizations to meet their business strategy goals and benefit from the power of technology innovation.  WE deliver mission-critical solutions to support your business decison.
+
+We have a full stack integrated teams that can deliver high-speed data access browser-based and native mobile applications solution.  We always prefer solution that integrates on a cloud infrastructure.
+
+We welcome you to enjoy the b
 
 
+Bani Dom
+CTO
 
-# Bani Dom
-# CTO
+banidom@schinkelsgroup.com.my
