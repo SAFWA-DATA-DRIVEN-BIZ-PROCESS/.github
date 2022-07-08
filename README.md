@@ -13,7 +13,7 @@ What we do best is combining emerging technologies (like Cloud Computing, Softwa
 
 We have a full stack integrated team that can deliver high-speed data access browser-based and native mobile applications solution.  We always prefer a solution that integrates on a cloud infrastructure.
 
-We welcome you to discuss on possible business benefit with our solution.
+We welcome you to discuss on possible business benefit with our solution team.
 
 
 Bani Dom
